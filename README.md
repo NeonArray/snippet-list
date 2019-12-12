@@ -32,3 +32,8 @@ Just a categorized list of snippets I find or create.
 ## SQL
 
 - [Find/Replace WordPress siteurl](https://gist.github.com/ocularrhythm/3ad44f65b9d34f8289feab030a9552f3)
+
+
+## WordPress
+
+- [Dynamically Change Page Title](https://gist.github.com/ocularrhythm/4f9e010a590fa1726cc47dd6d74890a0)
